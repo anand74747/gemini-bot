@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Conversational Agent",
+  "description": "A voice-first conversational AI designed to engage with company employees to gather insights about the company culture and work environment in a natural, friendly manner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
